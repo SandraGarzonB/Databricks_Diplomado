@@ -29,7 +29,6 @@ Este proyecto tiene como objetivo principal la descarga, procesamiento y anális
 - Jupyter Notebook (opcional)
 
 ## 🗂️ Estructura del Proyecto
-
 📁 datasets/
     ├── contratos_secop.csv
     └── matriculas_men.csv
@@ -38,9 +37,7 @@ Este proyecto tiene como objetivo principal la descarga, procesamiento y anális
 📁 notebooks/
     └── analisis_databricks.ipynb
 
-
-
-## 🧾  Créditos
+## 🧾 Créditos
 
 - [SECOP - Colombia Compra Eficiente](https://www.colombiacompra.gov.co/)
 - [Ministerio de Educación Nacional](https://www.mineducacion.gov.co/)
@@ -49,4 +46,3 @@ Este proyecto tiene como objetivo principal la descarga, procesamiento y anális
 ## 📄 Licencia
 
 Este proyecto utiliza datos abiertos bajo licencias públicas. El código fuente es distribuido bajo la licencia MIT.
-
